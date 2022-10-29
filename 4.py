@@ -397,7 +397,7 @@ logo = ("""
 \x1b[1;92m  
 
    \x1b[1;92m╔═════════════════════════════╗
-   \x1b[1;92m║➣TOOL NAME : { Rudro Tahsin }  	║  
+   \x1b[1;92m║➣TOOL NAME : {CRA4CK-RUDRO}  	║  
    \x1b[1;92m║➣AUTHOR    : Rudro Tahsin   	║  
    \x1b[1;92m║➣Instagram :  Rudro Tahsin 	║
    \x1b[1;92m║➣FACEBOOK  : Rudro Tahsin  	║ 
