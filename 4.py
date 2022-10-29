@@ -397,12 +397,12 @@ logo = ("""
 \x1b[1;92m  
 
    \x1b[1;92m╔═════════════════════════════╗
-   \x1b[1;92m║➣TOOL NAME : { Rudro Tahsin }   ║
-   \x1b[1;92m║➣AUTHOR    : Rudro Tahsin     ║
-   \x1b[1;92m║➣Instagram  :  ║Rudro Tahsin
-   \x1b[1;92m║➣FACEBOOK  : Rudro Tahsin   ║
-   \x1b[1;92m║➣Github    : Rudro707║
-   \x1b[1;92m║➣WHATSAPP  : [ ERROR ]       ║
+   \x1b[1;92m║➣TOOL NAME : { Rudro Tahsin }  	║  
+   \x1b[1;92m║➣AUTHOR    : Rudro Tahsin   	║  
+   \x1b[1;92m║➣Instagram :  Rudro Tahsin 	║
+   \x1b[1;92m║➣FACEBOOK  : Rudro Tahsin  	║ 
+   \x1b[1;92m║➣Github    : Rudro707		║
+   \x1b[1;92m║➣WHATSAPP  : [ ERROR ] 		║           
    \x1b[1;92m╚═════════════════════════════╝""")
 
 class Main:
