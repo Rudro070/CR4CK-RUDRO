@@ -1,2 +1,2 @@
 # CR4CK-RUDRO
-This tool is a paid Fuck Kauser
+This tool is free Fuck Kauser
